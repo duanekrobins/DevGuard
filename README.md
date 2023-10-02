@@ -1,8 +1,3 @@
-Certainly! By "mockup language," I'm assuming you mean markdown (`md`), which is the standard for README files on platforms like GitHub. Below is the README for `DevGuard` in markdown format:
-
----
-
-```markdown
 # DevGuard: JavaScript Code Anomaly Detector-- NOTE:  This a sample of the application only, I can demo full version if you want to see it.
 
 `DevGuard` is a static code analysis tool tailored for JavaScript developers to flag potential code anomalies in real-time, aiding in quicker debugging and more resilient code.
