@@ -3,7 +3,7 @@ Certainly! By "mockup language," I'm assuming you mean markdown (`md`), which is
 ---
 
 ```markdown
-# DevGuard: JavaScript Code Anomaly Detector
+# DevGuard: JavaScript Code Anomaly Detector-- NOTE:  This a sample of the application only, I can demo full version if you want to see it.
 
 `DevGuard` is a static code analysis tool tailored for JavaScript developers to flag potential code anomalies in real-time, aiding in quicker debugging and more resilient code.
 
